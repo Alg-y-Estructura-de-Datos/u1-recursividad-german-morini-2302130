@@ -1,3 +1,7 @@
 exec
 .cache
 build
+Arbol/main
+*.go
+.vscode
+output
